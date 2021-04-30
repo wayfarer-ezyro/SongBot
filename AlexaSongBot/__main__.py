@@ -1,4 +1,4 @@
-# © @Mr_Dark_Prince
+# © @AidanNia
 from config import OWNER_ID
 from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from AlexaSongBot.modules import *
@@ -11,7 +11,7 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
-I'm Σуωα, a Music Downloader Bot, created & maintained by [𖤍 Λℓσηє 𖤍](https://t.me/AidanNia).
+I'm [Σуωα](https://telegra.ph/file/0ecf05266d83076f92b39.jpg), a Music Downloader Bot, created & maintained by [𖤍 Λℓσηє 𖤍](https://t.me/AidanNia).
 Just send me the name of the song you want to download.
 Eg: ```/song Faded Alan Walker```
 """
