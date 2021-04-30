@@ -35,7 +35,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🦋 Creator 🦋", url="https://t.me/AidanNia"
+                        text="🦋 CRΣΛƬӨЯ 🦋", url="https://t.me/AidanNia"
                     )
                 ]
             ]
